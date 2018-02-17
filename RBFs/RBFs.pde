@@ -8,7 +8,7 @@ ArrayList<Float> randomResults = new ArrayList<Float>();
 ArrayList<GaussianNode> nodes = new ArrayList<GaussianNode>();
 
 int sampleSize = 75;
-int numClusters = 15;
+int numClusters = 10;
 int numEpochs = 100;
 
 float learningRate = 0.02;
